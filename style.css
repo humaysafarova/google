@@ -1,4 +1,19 @@
 body {
   font-family: "Dosis", sans-serif;
   font-weight: 500;
+}
+
+header {
+  padding: 20px 0;
+  background-color: #d3d3d3;
+}
+header nav a {
+  color: #878787;
+  font-size: 17px;
+  margin-right: 10px;
+}
+
+#google {
+  background-color: #d3d3d3;
+  height: 100vh;
 }/*# sourceMappingURL=style.css.map */
